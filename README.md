@@ -28,5 +28,4 @@
 * [Basic example showing the stepper motor in Full-Step and Half-Step modes](./1_Half-Step_Full-Step)
 * [Adding the microstepping feature for precision increase](./2_Microstep)
 * [Adding ramps(acceleration and deceleration) for better dynamic response](./3_Full-Ramp)
-* [Adding a second motor to demonstrate the PORTMUX peripheral. This scenario uses two motors alternatively. The motors do not rotate at the same time](./4_Dual-Alternate)
 
