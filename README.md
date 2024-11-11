@@ -25,7 +25,6 @@
 <br> These modes will be explained in more detail in the following four applications. The complexity of the application will gradually increase.
 
 ## Application scenarios:
-* [Basic example showing the stepper motor in Full-Step and Half-Step modes](./1_Half-Step_Full-Step)
-* [Adding the microstepping feature for precision increase](./2_Microstep)
+* [Basic example showing the stepper motor in Full-Step, Half-Step and Microstepping modes](./2_Microstep)
 * [Adding ramps(acceleration and deceleration) for better dynamic response](./3_Full-Ramp)
 
