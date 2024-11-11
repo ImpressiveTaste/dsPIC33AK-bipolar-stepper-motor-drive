@@ -4,7 +4,7 @@
 <br><img src="images/stepper_symbol.png">
 <br>Bipolar Stepper Motor
 
-<br>This series of examples presents how to drive a bipolar stepper motor using an AVR microcontroller, including the power stage.
+<br>This series of examples presents how to drive a bipolar stepper motor using a dsPIC33AK microcontroller, including the power stage. (This is a Work In Progress)
 
 
 ## Hardware Used
