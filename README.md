@@ -18,7 +18,7 @@
 
 <br>In these applications, the bipolar stepper motor will be driven in three modes:
 * Full-Step
-* Half-Step
+* Half-Step 
 * Microstep
 
 
