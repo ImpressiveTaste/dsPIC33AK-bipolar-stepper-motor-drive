@@ -9,7 +9,7 @@
 
 ## Hardware Used
 
-- [Curiosity Platform Development Board](https://www.microchip.com/en-us/development-tool/EV73J36A?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
+- [Curiosity Platform Development Board](https://www.microchip.com/en-us/development-tool/ev74h48a)
 - [dsPIC33AK128MC106 General Purpose Dual In-Line Module (DIM)](https://www.microchip.com/en-us/development-tool/ev02g02a)
 - [Multi-Phase Power Board (MPPB)](https://www.microchip.com/en-us/development-tool/ev35z86a)
 - Motor used in the application: SHW5750-18-28 Stepper Motor, but not mandatory
