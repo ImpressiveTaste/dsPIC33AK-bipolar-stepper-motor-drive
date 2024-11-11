@@ -48,10 +48,10 @@ More details and code examples on the AVR16EB32 can be found at the following li
 
 
 
-<br>The AVR16EB32 Curiosity Nano Development board is used along with the MPPB, AVR-EB Cnano to MPPB Adaptor Board, one stepper motor and a voltage power supply.
+<br>The dsPIC33AK is used along with the MPPB, AVR-EB Cnano to MPPB Adaptor Board, one stepper motor and a voltage power supply.
 <br>Adjust the supply voltage and the current limit according to the stepper motor used. 
 
-<br><img src="../images/full_setup.png">
+<br><img src="../images/dsPICAKWiring.png">
 <br>Hardware used
 
 
