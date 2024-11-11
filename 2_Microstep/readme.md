@@ -165,8 +165,6 @@ initial position, steps (to go) and delay (speed).
 
 ## Results
 
-<br>On the terminal, the information about the movement of the stepper is shown.
-<br><img src="../images/terminal_microstep.png">
 <br>Screen capture from Microstep configuration.
 <br>
 <br><img src="../images/full_step_capture.png">
