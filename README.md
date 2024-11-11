@@ -29,5 +29,5 @@
 * [Adding ramps(acceleration and deceleration) for better dynamic response - WIP - NotReady](./3_Full-Ramp)
 
 
-<br><img src="../images/BoardConfig.png">
+<br><img src="images/BoardConfig.png">
 <br>Hardware used
