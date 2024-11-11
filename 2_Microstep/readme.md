@@ -145,29 +145,21 @@ initial position, steps (to go) and delay (speed).
 
 3. Adjust the current limit of the power supply according to the stepper motor specs.
 
-4. Connect the power supply to the MPPB.
+5. Connect the power supply to the MPPB.
 
-5. Connect the AVR16EB32 board the the MPPB Adapter.
+4. Power Curiosity Platform Board via USB Type C.
 
-6. Connect the MPPB Adapter to the MPPB.
-
-7. Connect the AVR16EB32 board to the PC.
-
-8. Open the ```avr16eb32-stepper-microstepping-mcc.X``` or solution in MPLAB X IDE.
+8. Open the ```dsPIC33AK-stepper-microstepping-mcc.``` or solution in MPLAB X IDE.
 
 9. Right click the project and select Set as main project.
 
 <br><img src="../images/set_main_project_microstep.png">
 
-10. Build the ```avr16eb32-stepper-microstepping-mcc.X``` project by clicking **Clean and Build Project**.
-
-<br><img src="../images/clean_build_project.png">
+10. Build the ```adsPIC33AK-stepper-microstepping-mcc.X``` project by clicking **Clean and Build Project**.
 
 11. Click **Make and Program Device** to program the project to the board.
 
-<br><img src="../images/program_project.png">
-
-12. Start the power supply.
+11. Watch the Motor Spin :)
 <br>[Back to Top](#microstep)
 
 
