@@ -9,10 +9,10 @@
 
 ## Hardware Used
 
-- [AVR<sup>®</sup> EB Curiosity Nano](https://www.microchip.com/en-us/development-tool/EV73J36A?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
-- Multi-Phase Power Board (MPPB)
-- AVR-EB Curiosity Nano Adaptor to MPPB
-- Motor used in the application: 17HS8401S Stepper Motor, but not mandatory
+- [Curiosity Platform Development Board](https://www.microchip.com/en-us/development-tool/EV73J36A?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
+- [dsPIC33AK128MC106 General Purpose Dual In-Line Module (DIM)](https://www.microchip.com/en-us/development-tool/ev02g02a)
+- [Multi-Phase Power Board (MPPB)](https://www.microchip.com/en-us/development-tool/ev35z86a)
+- Motor used in the application: SHW5750-18-28 Stepper Motor, but not mandatory
 - A Voltage Power Supply (6-50V and 1-3A current capability, depending on the chosen motor)
 
 
