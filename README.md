@@ -28,3 +28,6 @@
 * [Basic example showing the stepper motor in Full-Step, Half-Step and Microstepping modes](./2_Microstep)
 * [Adding ramps(acceleration and deceleration) for better dynamic response - WIP - NotReady](./3_Full-Ramp)
 
+
+<br><img src="../images/BoardConfig.png">
+<br>Hardware used
