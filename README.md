@@ -33,7 +33,7 @@
 <br>Hardware used
 
 
-
+<br>Connections with male-male Jumper Wires
 | MultiPhaseBoard | CuriosityBoard |
 |-----------------|----------------|
 | D_AH            | P72            |
