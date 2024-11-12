@@ -55,6 +55,18 @@ More details and code examples on the AVR16EB32 can be found at the following li
 <br>Hardware used
 
 
+
+| MultiPhaseBoard | CuriosityBoard |
+|-----------------|----------------|
+| D_AH            | P72            |
+| D_AL            | P96            |
+| D_BH            | P70            |
+| D_BL            | P98            |
+| D_CH            | P28            |
+| D_CL            | P30            |
+| D_DH            | P75            |
+| D_DL            | P32            |
+
 ## Functionality
 
 <br>The application is periodically calling the ```Stepper_Move``` function with the parameters:
