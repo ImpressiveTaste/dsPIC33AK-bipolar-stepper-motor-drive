@@ -21,35 +21,14 @@ mode. It also provides double resolution of the Full-Step mode.
 ## Microstep Mode
 <br>The Microstep mode divides the full-step angle into even smaller steps, providing even smoother operation and higher precision. The number of microsteps per full-step can vary, but common values are 8, 16, 32, or even 256 microsteps per full-step. Even though this mode requires the most complex control algorithms, the current consumption is lower than in Full-Step and Half-Step modes, providing the highest precision, the least vibration and less noise. Microstep mode is often used in applications where precision and smoothness of operation are paramount, such as in CNC machines.
 
-
-## Related Documentation
-
-More details and code examples on the AVR16EB32 can be found at the following links:
-
-- [AVR<sup>®</sup> EB Product Page](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus/avr-eb?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
-- [AVR<sup>®</sup> EB Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=AVR16EB32)
-
-
 ## Software Used
 
-- [MPLAB® X IDE v6.20 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
-- [AVR-Ex DFP-2.9.197 or newer Device Pack](https://packs.download.microchip.com/)
-- [MPLAB® XC8 compiler v2.46](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
-- [MPLAB® Code Configurator (MCC) v 5.5.0](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
+- [MPLAB® X IDE v6.20 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+- [MPLAB® XC-DSC](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers)
+- [MPLAB® Code Configurator (MCC) v 6.2.0](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator)
 
 
 ## Hardware Used
-
-- [AVR<sup>®</sup> EB Curiosity Nano](https://www.microchip.com/en-us/development-tool/EV73J36A?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_AVR-EB&utm_content=avr16eb32-bipolar-stepper-motor-drive-github&utm_bu=MCU08)
-- Multi-Phase Power Board (MPPB)
-- AVR-EB Curiosity Nano Adaptor to MPPB
-- Motor used in the application: 17HS8401S Stepper Motor, but not mandatory
-- A Voltage Power Supply (6-50V and 1-3A current capability, depending on the chosen motor)
-
-
-
-<br>The dsPIC33AK is used along with the MPPB, AVR-EB Cnano to MPPB Adaptor Board, one stepper motor and a voltage power supply.
-<br>Adjust the supply voltage and the current limit according to the stepper motor used. 
 
 <br><img src="../images/BoardConfig.png">
 <br>Hardware used
@@ -200,7 +179,7 @@ initial position, steps (to go) and delay (speed).
 
 ## Summary
 
-<br>This application shows how to drive in Full-Step or Half-Step or Microstep a stepper motor using AVR16EB32, MPPB, MPPB Adapter and a power supply.
+<br>This application shows how to drive in Full-Step or Half-Step or Microstep a stepper motor using dsPIC33AK, MPPB and a power supply.
 
 <br>[Back to Top](#microstep)
 <br>[Back to Related Documentation](#related-documentation)
