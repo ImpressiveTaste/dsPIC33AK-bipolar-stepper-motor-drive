@@ -12,7 +12,7 @@
 - [Curiosity Platform Development Board](https://www.microchip.com/en-us/development-tool/ev74h48a)
 - [dsPIC33AK128MC106 General Purpose Dual In-Line Module (DIM)](https://www.microchip.com/en-us/development-tool/ev02g02a)
 - [Multi-Phase Power Board (MPPB)](https://www.microchip.com/en-us/development-tool/ev35z86a)
-- Motor used in the application: SHW5750-18-28 Stepper Motor, but not mandatory
+- Motor used in the application: 16MY7405-01 Stepper Motor, but not mandatory
 - A Voltage Power Supply (6-50V and 1-3A current capability, depending on the chosen motor)
 
 
