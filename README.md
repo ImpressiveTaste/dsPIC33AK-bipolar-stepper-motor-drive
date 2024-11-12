@@ -44,3 +44,4 @@
 | D_CL            | P30            |
 | D_DH            | P75            |
 | D_DL            | P32            |
+| GND             | GND            |
