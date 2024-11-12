@@ -31,3 +31,16 @@
 
 <br><img src="images/BoardConfig.png">
 <br>Hardware used
+
+
+
+| MultiPhaseBoard | CuriosityBoard |
+|-----------------|----------------|
+| D_AH            | P72            |
+| D_AL            | P96            |
+| D_BH            | P70            |
+| D_BL            | P98            |
+| D_CH            | P28            |
+| D_CL            | P30            |
+| D_DH            | P75            |
+| D_DL            | P32            |
